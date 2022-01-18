@@ -10,6 +10,7 @@ import org.apache.beam.sdk.values.PCollection;
 
 import java.util.Arrays;
 
+
 public class ReadBeam {
     public static void main(String[] args) {
 
